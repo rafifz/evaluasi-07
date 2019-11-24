@@ -1,0 +1,13 @@
+.Berita{
+    padding-bottom: 40px;
+    display: flex;
+    width: 500px;
+    text-align: justify;
+}
+.Berita p{
+    margin-left: 10px;
+}
+.Berita a{
+    text-decoration: none;
+    margin-left: 10px;
+}
